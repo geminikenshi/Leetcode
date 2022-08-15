@@ -1,4 +1,4 @@
-package Lowest_Common_Ancestor_of_a_BST
+package _35__Lowest_Common_Ancestor_of_a_BST
 /**
  * Definition for a binary tree node.
  * type TreeNode struct {
