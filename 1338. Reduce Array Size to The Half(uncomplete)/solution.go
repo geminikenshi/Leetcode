@@ -1,4 +1,4 @@
-package _338__Reduce_Array_Size_to_The_Half
+package _338__Reduce_Array_Size_to_The_Half_uncomplete_
 
 //This is uncomplete code, I was stuck.
 

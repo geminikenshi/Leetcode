@@ -26,8 +26,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fba2413e-3e82-4d1f-985d-3339d17e7b55" name="Default Changelist" comment="keep on coding">
-      <change afterPath="$PROJECT_DIR$/326. Power of Three/solution_v1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/383. Ransom Note/solution.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1338. Reduce Array Size to The Half/solution.go" beforeDir="false" afterPath="$PROJECT_DIR$/1338. Reduce Array Size to The Half(uncomplete)/solution.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
