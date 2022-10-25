@@ -26,6 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fba2413e-3e82-4d1f-985d-3339d17e7b55" name="Default Changelist" comment="keep on coding">
+      <change afterPath="$PROJECT_DIR$/682. Baseball Game/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +46,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="22v8fJZGZjrCcLzaRr1FtQv6423" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -97,10 +101,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="keep on coding" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1060" y="454" key="FileChooserDialogImpl" timestamp="1661531313218">
+    <state x="1060" y="454" key="FileChooserDialogImpl" timestamp="1662712851868">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1060" y="454" key="FileChooserDialogImpl/0.0.2560.1400/-3840.-418.2560.1400@0.0.2560.1400" timestamp="1661531313218" />
+    <state x="1060" y="454" key="FileChooserDialogImpl/0.0.2560.1400/-3840.-418.2560.1400@0.0.2560.1400" timestamp="1662712851868" />
     <state x="872" y="432" key="Vcs.Push.Dialog.v2" timestamp="1661177754539">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
