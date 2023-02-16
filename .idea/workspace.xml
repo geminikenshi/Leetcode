@@ -26,8 +26,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fba2413e-3e82-4d1f-985d-3339d17e7b55" name="Default Changelist" comment="keep on coding">
-      <change afterPath="$PROJECT_DIR$/682. Baseball Game/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/104. Maximum Depth of Binary Tree/recursivc_DFS.go" beforeDir="false" afterPath="$PROJECT_DIR$/104. Maximum Depth of Binary Tree/recursive_DFS.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
