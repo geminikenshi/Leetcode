@@ -19,20 +19,20 @@ var isValid = function (s) {
         stack.push(chr);
         break;
       case ")":
-        if (stack[stack.length - 1] === "(") {
+        if (stack.at(-1) === "(") {
           stack.pop();
           break;
         }
         return false;
       case "}":
-        if (stack[stack.length - 1] === "{") {
+        if (stack.at(-1) === "{") {
           stack.pop();
           break;
         }
         return false;
 
       case "]":
-        if (stack[stack.length - 1] === "[") {
+        if (stack.at(-1) === "[") {
           stack.pop();
           break;
         }
