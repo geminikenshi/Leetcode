@@ -2,9 +2,9 @@
 
 LeetCode : [problem](https://leetcode.com/problems/valid-parentheses/description/)
 
-This problem is easy to solve with the stack datastructure
+This problem is easy to solve with the stack data structure
 
-Every closing bracket has to match the closest opening bracket or it will be invalid.
+Every closing bracket has to match the closest opening bracket or it is invalid.
 
 Example:
 
@@ -15,4 +15,4 @@ Example:
 
 ## Version 2
 
-Use object as a hashmap, much leaner code.
+Use an object as a hashmap, resulting in much cleaner code.
