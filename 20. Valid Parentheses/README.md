@@ -12,3 +12,7 @@ Example:
   This is invalid
 - `"((((()[]{{}}))))"`
   This is valid
+
+## Version 2
+
+Use object as a hashmap, much leaner code.
