@@ -7,7 +7,7 @@ var isValid = function (s) {
 
   const stack = [];
 
-  for (chr of s) {
+  for (const chr of s) {
     switch (chr) {
       case "(":
         stack.push(chr);
